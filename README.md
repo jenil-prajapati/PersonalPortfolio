@@ -1,11 +1,6 @@
-# Erik Cupsa's Coding Portfolio
+# Jenil Prajapati's Coding Portfolio
 
-Welcome to my coding portfolio! This web application is built using ReactJs with Sass styling, showcasing my skills, projects, and achievements in the field of web development. You can check it out [here!](https://erikc-portfolio.vercel.app/)
-
-<img width="1160" alt="Screenshot 2024-06-15 at 1 20 54 AM" src="https://github.com/Erik-Cupsa/PortfolioWebsite/assets/86483911/3158d670-8cea-428a-8308-32c6b50f4de0">
-
-
-
+Welcome to my coding portfolio! This web application is built using ReactJs with Sass styling, showcasing my skills, projects, and achievements in the field of web development.
 
 ## Table of Contents
 
@@ -35,7 +30,7 @@ This portfolio is a personalized space for me to highlight my expertise, share m
 
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git](https://github.com/Erik-Cupsa/PortfolioWebsite.git`
+1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git](https://github.com/jenil-prajapati/PersonalPortfolio.git`
 
 2. Navigate to the project directory: `cd PortfolioWebsite`
 
@@ -57,15 +52,3 @@ The project structure follows a standard React application layout. Key directori
 - `src/components`: Contains React components used to build different sections of the portfolio.
 - `src/styles`: Sass files for styling the application.
 - `public`: Static assets and the `index.html` file.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for checking out my Coding Portfolio! If you have any questions or feedback, feel free to reach out.
