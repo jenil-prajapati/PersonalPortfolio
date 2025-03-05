@@ -4,31 +4,29 @@ import './index.scss';
 const Timeline = () => {
   const [events, setEvents] = useState([
     {
-      date: 'May-September 2024',
-      title: 'TRC Consutling, Inc.',
+      date: '09/2024 - Present',
+      title: 'META | Psychology & Brain Sciences Lab',
       description: [
-        'Engineered Large Language Models (LLMs), including <b>BERT</b> and <b>Attention Models</b>, to analyze <b>software engineering requirements</b> and generate accurate dependency lists, improving project planning efficiency by <b>37%</b>',
-        'Analyzed 1200+ <b>software requirements</b> monthly using <b>scikit-learn</b> (classification models), <b>spaCy</b>, and <b>NLTK</b> in <b>Python</b>, saving the company $20,000 annually by decreasing project lead times',
-        'Integrated <b>TF-IDF</b> vectorization to detect similarities in <b>software requirements</b>, focusing on preprocessing, model training, hyperparameter tuning and clustering to optimize <b>NLP</b> analysis processes',
+        'Developing and fine-tuning an iOS app using <b>Flutter</b> and <b>Firebase</b>, fixing bugs, enhancing <b>UI/UX</b>, and scaling the application. Improving <b>backend</b> performance with <b>Node.js</b> and <b>React</b> to support growing user needs.',
+        'Collaborated using <b>Agile methodology</b>, conducting daily stand-ups and sprint planning to prioritize features and bugs.'
       ],
       expanded: false,
     },
     {
-      date: 'May-September 2023',
-      title: 'TRC Consulting, Inc.',
+      date: '09/2024 - 12/2024',
+      title: 'HAL | Human-AI Integration Lab',
       description: [
-        'Designed <b>30+ AWS Lambda Functions in AWS</b>, strategically leveraging <b>Lambda layers</b> to increase processing speed by <b>35% </b>and re-usability by <b>52%</b>, resulting in cost savings of <b>$1,000</b> per large scale deployment',
-        'Implemented <b>15+</b> serverless workflows using <b>AWS Step Functions</b>, seamlessly integrating <b>REST APIs </b>and rigorously tested with <b>Postman</b>, resulting in a <b>65%</b> reduction in execution time and enhanced operational efficiency',
-        'Crafted a <b>Spring Boot</b> application with a <b>Drools</b> logic engine, containerized it using <b>Docker</b>, and seamlessly deployed it on <b>AWS</b> using <b>EC2</b>, strategically allocating cloud resources to ensure enhanced scalability and reliability',
+        'Developed a <b>Virtual Reality</b> Fencing training system using <b>Unity Hub</b>, <b>Meta Quest 3</b>, and <b>C#</b>, integrating Unity\'s physics engine, animation rigging, and <b>machine learning models</b> for motion analysis with real-time feedback. Utilized data visualization to display performance metrics, enhancing the system\'s capability for precise user interaction and evaluation.'
       ],
       expanded: false,
     },
     {
-      date: 'May-September 2022',
-      title: 'Government Of Canada',
+      date: '06/2024 - 09/2024',
+      title: 'WORLEY ENGINEERING',
       description: [
-        'Programmed and deployed a <b>Python-based data migration pipeline</b> on <b>Azure</b>, achieving a <b>50%</b> reduction in transfer time for <b>100+ terabytes</b> of critical business data',
-        'Centralized a <b>SQL database infrastructure</b> on <b>Azure</b>, enhancing data accessibility and security for <b>50+</b> stakeholders, resulting in a <b>30%</b> improvement in query performance across the organization',
+        'Collaborated with SMEs and senior managers to analyze <b>Digital Twin</b>, <b>IoT</b>, and <b>AR/VR</b> solutions, leveraging tools like <b>AVEVA</b> and <b>Cognite</b> to optimize project delivery. Additionally, solved complex problem by exploring data centric solution to drive innovation & excellence.',
+        'Independently developed predictive maintenance strategies using <b>Python</b>, <b>C#</b>, and <b>Azure</b>, integrating real-time data from IoT sensors and high-resolution <b>3D models</b> to enhance asset monitoring and improve operational efficiency.',
+        'Delivered a detailed report proposing innovative <b>cloud-based solutions</b> and integrating <b>CI/CD pipelines</b> for safety protocols and workflow automation, showcasing measurable improvements in system uptime, risk management, and personnel readiness by leveraging <b>Scrum frameworks</b> to coordinate predictive maintenance tasks, ensuring timely deliverables.'
       ],
       expanded: false,
     },

@@ -1,53 +1,46 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/McGill.png", 
-            "title": "Exam Scheduler", 
-            "description": "ReactJS, PostgreSQL, Spring Boot", 
-            "url": "https://mcgillscheduler.vercel.app/"
+            "title": "Stock Market Analyzer",
+            "description": "S&P 500 Stock Market Analysis Tool",
+            "cover": "/portfolio/s&p500.png",
+            "url": "https://github.com/jenil-prajapati/project-stock-sp500"
         },
         {
-            "cover": "/portfolio/Empor.png", 
-            "title": "Empor", 
-            "description": "NextJS, Prisma, Spring Boot", 
-            "url": "https://www.empor.ca"
+            "title": "Reminisce",
+            "description": "MERN Stack Social Media Platform",
+            "cover": "/portfolio/reminisce.png", 
+            "url": "https://github.com/jenil-prajapati/mern-project-reminisce"
         },
         {
-            "cover": "/portfolio/PLPredictor.png", 
-            "title": "PL Match Predictor", 
-            "description": "Python, Sci-kit Learn, Pandas", 
-            "url": "https://github.com/Erik-Cupsa/Soccer-Match-Predictor"
+            "title": "Bow Master",
+            "description": "Interactive Archery Game",
+            "cover": "/portfolio/bowmaster.png",
+            "url": "https://github.com/jenil-prajapati/BowMaster"
         },
         {
-            "cover": "/portfolio/FPL.png", 
-            "title": "PremierZone", 
-            "description": "ReactJS, PostgreSQL, Spring Boot", 
-            "url": "https://premierzone.vercel.app/"
+            "title": "Datathon",
+            "description": "Data Analysis and Visualization Project",
+            "cover": "/portfolio/datathon.png",
+            "url": "https://github.com/jenil-prajapati/Datathon"
         },
         {
-            "cover": "/portfolio/JwtImage.png", 
-            "title": "Spring Security Tutorial", 
-            "description": "Spring Boot, JWT", 
-            "url": "https://youtu.be/uZGuwX3St_c?si=jIITQc20dXuGoOAP"
+            "title": "Got Chu Gaucho",
+            "description": "SB Hacks Hackathon Project",
+            "cover": "/portfolio/sbhacks.png",
+            "url": "https://github.com/jenil-prajapati/GotchuGaucho"
         },
         {
-            "cover": "/portfolio/GymTech.png", 
-            "title": "GymTech", 
-            "description": "ReactJS, PostgreSQL, Spring Boot", 
-            "url": "https://github.com/Erik-Cupsa/GymTech"
+            "title": "Boa Bomb",
+            "description": "Innovative Web Application",
+            "cover": "/portfolio/boabomb.png",
+            "url": "https://github.com/jenil-prajapati/BoaBomb"
         },
-
         {
-            "cover": "/portfolio/Chat.png", 
-            "title": "StudySmartBot", 
-            "description": "ReactJS, NodeJS, Web Sockets", 
-            "url": "https://github.com/Erik-Cupsa/StudySmartBot"
-        }, 
-        {
-            "cover": "/portfolio/Jetpack.png", 
-            "title": "Super GTA Adventure", 
-            "description": "HTML, CSS, JavaScript", 
-            "url": "https://super-gta-adventure.vercel.app/"
+            "title": "Weather App",
+            "description": "MERN Stack Weather Tracking Application",
+            "cover": "/portfolio/weatherapp.png",
+            "url": "https://github.com/jenil-prajapati/weatherapp-mern"
         }
     ]
 }

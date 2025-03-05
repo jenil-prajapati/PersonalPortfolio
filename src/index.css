@@ -4,9 +4,9 @@ html {
 
 body {
   margin: 0;
-  font: 300 11px/1.4 'Helveitca Neue', 'sans-serif'; 
+  font: 300 11px/1.4 'Helvetica Neue', 'sans-serif'; 
   color: #444;
-  background: #022c43; 
+  background: #4c1d95; /* Changed to purple */
   overflow: hidden; 
   display: block;  
   -webkit-font-smoothing: antialiased;
